@@ -1,0 +1,19 @@
+.form {
+	margin : 0px auto 12px auto;
+	height: 80px;
+	display: flex;
+	justify-content: center;
+}
+
+
+#email {
+	border-radius: 0px;
+	width: 450px;
+	height: 60px;
+
+}
+
+#form-2 {
+    margin-top: 60px;
+}
+

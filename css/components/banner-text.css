@@ -1,0 +1,30 @@
+.titles {
+	width: 700px;
+	margin: 170px auto 20px auto;
+	text-align: center;
+	padding: 0px;
+}
+
+.titles h1 {
+	font-size: 48px;
+	font-style: bold;
+	margin: 0px 60px;
+}
+
+.titles h2 {
+	font-size: 23px;
+	font-style: lighter;
+	margin: 15px 0px;
+}
+
+.instructions {
+	font-style: lighter;
+	margin: 0px auto auto auto;
+	width: 840px;
+	text-align: center;
+	padding: 0px;
+}
+
+.instructions h3 {
+	font-size: 17px;
+}

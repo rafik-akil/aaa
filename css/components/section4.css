@@ -1,0 +1,25 @@
+#section4 {
+	position: relative;
+	width: 1440px;
+}
+
+
+
+.faq {
+    font-size: 25px;
+    margin-left: 300px;
+    padding: 0px;
+    width: 900px;
+}
+
+.faq h1{
+    text-align: center;
+    margin-top: 70px; 
+    margin-bottom: 40px;
+    font-size: 45px;
+}
+
+
+ #instructions-2 {
+    margin-bottom: 70px;
+ }

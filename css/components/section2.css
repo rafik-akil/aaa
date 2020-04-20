@@ -1,0 +1,30 @@
+#section2 {
+	height: 470px;
+	width: 1440px;
+	position: static;
+	display: flex;
+}
+
+#image2 {
+	width: 540px;
+	margin: 10px auto auto 85px;
+	z-index: 1;
+}
+
+.card {
+	position: absolute;
+	margin : 280px auto auto 185px;
+}
+
+.text-s2 {
+	margin: 75px 170px auto 100px;
+}
+
+.text-s2 h1 {
+	font-size: 46px;
+}
+
+.text-s2 h2 {
+	font-size : 24px;
+	font-weight: lighter;
+}

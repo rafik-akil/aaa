@@ -1,0 +1,36 @@
+#section3 {
+	height: 544px;
+	width: 1440px;
+	position: static;
+	display: flex;
+}
+
+
+
+.text-s3 {
+	width: 512px;
+	margin: 180px 0px auto 175px;
+	padding: 0px;
+}
+
+.text-s3 h1 {
+	font-size: 46px;
+}
+
+.text-s3 h2 {
+	font-size : 24px;
+	font-weight: lighter;
+}
+
+
+.animation3 img {
+	width: 560px;
+	margin: 40px auto auto 90px;
+	position: absolute;
+}
+
+.animation3 video {
+	z-index: 1;
+	margin: 78px auto auto 190px;
+	height: 37%;
+}

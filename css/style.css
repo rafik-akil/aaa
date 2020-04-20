@@ -1,0 +1,44 @@
+@import url("components/banner.css");
+@import url("components/button.css");
+@import url("components/header.css");
+@import url("components/form.css");
+@import url("components/banner-text.css");
+@import url("components/checkbox.css");
+@import url("components/section3.css");
+@import url("components/section4.css");
+@import url("components/section1.css");
+@import url("components/section2.css");
+@import url("components/card.css");
+@import url("components/section5.css");
+@import url("components/link-container.css");
+@import url("components/dropdown-button.css");
+@import url("components/responsive.css");
+
+
+
+ 
+
+body {
+	background-color: rgb(0,0,0);
+	font-family: 'Poppins', sans-serif;
+
+}
+
+.section {
+	background-color: black;
+	color: white;
+	border-bottom: 8px solid rgb(34,34,34);
+  flex-grow: 1;
+  margin-top: 0px;
+}
+
+
+.all {
+  height: 3449px;
+  width: 1440px;
+	margin: 0px;
+	padding: 0px;
+}
+
+
+

@@ -1,0 +1,35 @@
+#section1 {
+	height: 470px;
+	width: 1440px;
+	display: flex;
+}
+
+
+
+.text-s1 {
+	width: 512px;
+	margin: 130px 0px auto 175px;
+	padding: 0px;
+	flex-wrap: wrap;
+}
+
+.text-s1 h1 {
+	font-size: 46px;
+}
+
+.text-s1 h2 {
+	font-size : 24px;
+	font-weight: lighter;
+}
+
+.animation1 img {
+	width: 540px;
+	margin: 10px auto auto 65px;
+	position: absolute;
+}
+
+.animation1 video {
+	z-index: 1;
+	margin: 90px auto auto 137px;
+	height: 48%;
+}

@@ -1,0 +1,39 @@
+#section5 {
+	height: 427px;
+	width: 1440px;
+	position: relative;
+	border-bottom: 0px;
+	font-size: 13px;
+	position: absolute;
+}
+
+
+#section5 a {
+	color: rgb(107,107,107);
+}
+
+
+#section5 li {
+	list-style: none;
+}
+
+#section5 a:hover {
+	text-decoration: underline;
+}
+
+
+#section5 h1 {
+	margin : 70px auto auto 260px;
+	font-size: 16px;
+}
+
+#section5 h2 {
+	font-size: 13px;
+	margin : 0px auto auto 260px;
+}
+
+#section5 h3 {
+	font-size: 13px;
+	margin : 18px auto auto 260px;
+	color: rgb(107,107,107)
+}

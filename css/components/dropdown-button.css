@@ -1,0 +1,43 @@
+#section5 button {
+	background-color: black;
+	border: 1px solid rgb(51,51,51);
+	border-radius: 2px;
+	color: rgb(107,107,107);
+	font-size: 14px;
+	margin: 30px auto auto 260px;
+	height: 50px;
+	width: 150px;
+	justify-content: space-between;
+	align-items: center;
+}
+
+#section5 img {
+	margin-left: 0px;
+	padding-left: 0px;
+}
+
+#section5 button:active {
+	border: 2px solid red;
+}
+
+.dropdown-menu {
+	background-color: white;
+	color: black;
+	height: 50px;
+	font-size: 14px;
+	width: 150px;
+	z-index: 1;
+	margin-left: 0px;
+}
+
+.dropdown-menu a {
+	padding: 0px 0px 0px 0px;
+	margin: 0px;
+	color: black;
+}
+
+.dropdown-menu a:hover {
+	background-color: red;
+	text-decoration: none;
+}
+

@@ -1,0 +1,32 @@
+.card {
+	width: 330px;
+	height: 100px;
+	display: flex;
+	flex-wrap: wrap;
+	background: black;
+	border : 2px solid rgb(64,64,64);
+	border-radius: 10px;
+}
+
+
+.card-text {
+	margin-top: 30px;
+}
+
+.card-text h4 {
+	font-size: 16px;
+}
+
+.card-text h5 {
+	color: #1071EB;
+	font-size: 14px;
+}
+
+#card-image2 {
+	margin-left: 20px;
+	margin-top: 10px;
+}
+
+#card-gif2 {
+	margin-top: 27px;
+}
